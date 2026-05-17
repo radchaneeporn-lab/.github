@@ -16,7 +16,9 @@ Benefits of Token Counting for
   - **Part V: Cost Optimization Through Prompt Caching**   *(In-Progress)*
 
 ## About This Space
-
+<div align="center">
+<img src="https://github.com/radchaneeporn-lab/little-cabinet/blob/main/banner_.jpg" alt="Lab Banner" width="1200"/>
+</div>
 This place is managed by a skeptical girl who wants to understand how things work under the hood. She believes that learning at a fundamental level creates comprehensive, insightful understanding—enough to tackle both unexpected development challenges and real-world problems.
 
 ## Learning Philosophy
