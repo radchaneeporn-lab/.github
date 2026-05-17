@@ -1,10 +1,19 @@
 # 🔬 Welcome to Radchaneeporn Lab
 
-## Published Content 
-update 2026/05/17
+## Published Contents 
+last update 2026/05/17
 
-1. Choose the Right Claude Model [Slide](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/tree/main/1_Choose_the_Right_Claude_Model)
-2. How Token Counting Helps Us Save on Cost [Summary Note](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/blob/main/2_Count_Token/How%20Token%20Counting%20Helps%20Us%20Save%20on%20Cost%20(Part%201).md) | [Code](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/tree/main/2_Count_Token)
+**1. Choose the Right Claude Model** ->  [Slide](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/tree/main/1_Choose_the_Right_Claude_Model) | [Video](https://www.youtube.com/watch?v=4bs81xMZaGM)
+
+**2. How Token Counting Helps Us Save on Cost on LLM App Development**
+
+Benefits of Token Counting for
+   - **Part I:** **Accurate Cost Estimation and Budget Forecasting** ->
+    [Summary Note](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/blob/main/2_Count_Token/How%20Token%20Counting%20Helps%20Us%20Save%20on%20Cost%20(Part%201).md) | [Code](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/tree/main/2_Count_Token)
+  - **Part II:Context Length Management and Architecture Design**  *(In-Progress)*
+  - **Part III: Agentic Design and Tool Calling Optimization**  *(In-Progress)*
+  - **Part IV: Retrieval-Augmented Generation (RAG) Optimization**  *(In-Progress)*
+  - **Part V: Cost Optimization Through Prompt Caching**   *(In-Progress)*
 
 ## About This Space
 
