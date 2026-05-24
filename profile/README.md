@@ -9,7 +9,7 @@ last update 2026/05/17
 
 Benefits of Token Counting for
    - **Part I:** **Accurate Cost Estimation and Budget Forecasting** ->
-    [Summary Note](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/blob/main/2_Count_Token/Benefits%20of%20Token%20Counting%20for%20Accurate%20Cost%20Estimation%20and%20Budget%20Forecasting.md) | [Code](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/tree/main/2_Count_Token) | [Video] (https://youtu.be/zQ0318Ki1UY)
+    [Summary Note](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/blob/main/2_Count_Token/Benefits%20of%20Token%20Counting%20for%20Accurate%20Cost%20Estimation%20and%20Budget%20Forecasting.md) | [Code](https://github.com/radchaneeporn-lab/LLM-Knowledge-Sharing/tree/main/2_Count_Token) | [Video](https://youtu.be/zQ0318Ki1UY)
   - **Part II:Context Length Management and Architecture Design**  *(In-Progress)*
   - **Part III: Agentic Design and Tool Calling Optimization**  *(In-Progress)*
   - **Part IV: Retrieval-Augmented Generation (RAG) Optimization**  *(In-Progress)*
